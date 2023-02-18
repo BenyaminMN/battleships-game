@@ -56,4 +56,4 @@ No unfixed founds
 
 
 **Content**
-- A lot of help and ispiration were taken from https://www.w3schools.com/.
+- A lot of help and inspiration were taken from https://www.w3schools.com/.
